@@ -44,6 +44,8 @@ The app initially used `setState()` for local UI updates and was later refactore
 
 ---
 
+
+
 ## 🚀 Getting Started
 
 1. Clone the repository
@@ -60,6 +62,11 @@ The app initially used `setState()` for local UI updates and was later refactore
    ```
 
 ---
+## ScreenShots:
+<img width="453" height="815" alt="image" src="https://github.com/user-attachments/assets/141a76a4-c395-4c3e-a83e-6491c1a18687" />
+<img width="458" height="817" alt="image" src="https://github.com/user-attachments/assets/30fba264-4926-4dad-8632-047b2f478a27" />
+<img width="465" height="824" alt="image" src="https://github.com/user-attachments/assets/62f63a71-3a63-40cf-aae3-aa005cde807d" />
+
 
 
 ## 👤 Author
